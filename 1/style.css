@@ -1,0 +1,28 @@
+li {
+	color: red;
+}
+
+.can {
+	color: #8f0e79;
+}
+
+#road {
+	color: #c25508;
+}
+
+.w {
+	color: #7c7bd4;
+}
+
+#rip {
+	color: brown;
+}
+
+#sh:hover{
+	text-shadow: 6px 4px 10px red;
+}
+
+img:hover{
+	height: 150%;
+}
+
